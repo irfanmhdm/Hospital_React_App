@@ -17,7 +17,7 @@ const Delete = () => {
                         </div>
                         <div className="col col-12 g-3">
 
-                            <button className="btn btn-primary">Delete</button>
+                            <button className="btn btn-danger">Delete</button>
                         </div>
                         </div>
                     </div>
